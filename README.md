@@ -136,7 +136,7 @@
 <!-- Connect with Me Section -->
 <h2 align="center">Connect with Me</h2>
 
-<a href="https://www.linkedin.com/in/aman-kumar-c107/" target="_blank" style="margin-right: 10px;">
+<a href="https://www.linkedin.com/in/aman-kumar-india/" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
 </a>
 
