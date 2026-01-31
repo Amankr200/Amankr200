@@ -1,4 +1,4 @@
-<h1 align="center"> Yo!!! I'm Aman Kumar <img src="https://tinyurl.com/codingman1" width="25px"></h1>
+<h1 align="center"> Yo!!! I'm Aman Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/aman-kumar-india/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Aman LinkedIn" height='20' width='90'/>
@@ -9,7 +9,7 @@
 </p>
 
 <div align="center" width="50%">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
+  <img src="https://tinyurl.com/codingman1" alt="CoDiNg RocKs"  width="60%"/>
   <br>
   <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p>
   <!-- Streak feature -->
