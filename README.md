@@ -1,4 +1,4 @@
-<h1 align="center"> Yo!!! I'm Aman Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"> Yo!!! I'm Aman Kumar <img src="https://tinyurl.com/codingman1" width="25px"></h1>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/aman-kumar-india/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Aman LinkedIn" height='20' width='90'/>
