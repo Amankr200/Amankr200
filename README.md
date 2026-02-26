@@ -31,35 +31,50 @@
 </div>
 
 <br>
-<h3> Languages, Tools and Technologies 🚀 </h3>
+<h3>Languages, Tools and Technologies 🚀</h3>
+
 <table>
-	<tr>
-	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Database Technologies</strong></td>
-	 
-</tr>
-<tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
-</tr>
-<tr>
-	<td><strong>Backend Development</strong></td>
-	
-</tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=cpp,js&theme=dark">
+    </td>
+  </tr>
 
-<tr>
-	<td><strong>Frameworks</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
-</tr>
+  <tr>
+    <td><strong>Database Technologies</strong></td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark">
+    </td>
+  </tr>
 
-<tr>
-	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=github&theme=dark"></td>
-</tr>
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=react&theme=dark">
+    </td>
+  </tr>
 
+  <tr>
+    <td><strong>Backend Development</strong></td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=nodejs,express&theme=dark">
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>DevOps</strong></td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=docker&theme=dark">
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Developer Tools</strong></td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=git,github&theme=dark">
+    </td>
+  </tr>
 </table>
 <br>
 <h3>🚀 Projects </h3>
