@@ -24,11 +24,6 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amankr200&theme=github_dark" />
 </div>
 
-<br>
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Amankr200&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
-</div>
 
 <br>
 <h3>Languages, Tools and Technologies 🚀</h3>
