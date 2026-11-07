@@ -106,7 +106,7 @@ I'm a final-year Information Technology student who got bitten by the radioactiv
 <img src="https://raw.githubusercontent.com/ananyag309/ananyag309/main/Champion%20Badge.png" width="75" alt="Champion" />
 <img src="https://raw.githubusercontent.com/ananyag309/ananyag309/main/Trailblazer%20Badge.png" width="75" alt="Trailblazer" />
 <img src="https://raw.githubusercontent.com/ananyag309/ananyag309/main/Summit%20Seeker%20Badge.png" width="75" alt="Summit Seeker" />
-<img src="https://raw.githubusercontent.com/Amankr200/assets/Postman - Postman API Fundamentals Student Expert - 2024-10-20 (1).png" width="75" alt="Postman API Student Expert" />
+<img src="https://raw.githubusercontent.com/Amankr200/Amankr200/main/assets/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-10-20%20%281%29.png" width="75" alt="Postman API Student Expert" />
 
 <sub>Explorer · Adventurer · Champion · Trailblazer · Summit Seeker · Postman API Student Expert</sub>
 
