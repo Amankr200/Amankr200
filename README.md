@@ -1,131 +1,174 @@
-<!-- ============ HEADER BANNER ============ -->
+<!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aman%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=17&descAlignY=58" width="100%" alt="Aman Kumar banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:8957e5&height=260&section=header&text=AMAN%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Dev%20%E2%80%A2%20DSA%20Nerd%20%E2%80%A2%20Builder%20of%20Useful%20Things&descSize=18&descAlignY=60&stroke=58a6ff&strokeWidth=1" width="100%" alt="banner" />
 
 <a href="https://github.com/Amankr200">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Hey+there%2C+I'm+Aman+%F0%9F%91%8B;B.Tech+IT+%40+BPIT%2C+GGSIPU;I+build+things+with+the+MERN+stack;College+%C2%B7+Coffee+%C2%B7+Code+%C2%B7+Repeat" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&height=45&lines=%3E+B.Tech+IT+%40+BPIT%2C+GGSIPU+(2027);%3E+LeetCode+1826+%E2%80%A2+Top+6%25+Globally;%3E+Shipping+MERN+apps+%26+RAG+pipelines;%3E+College+%C2%B7+Coffee+%C2%B7+Code+%C2%B7+Repeat" alt="typing" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aman-kumar-india/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Amankr200"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://portfolio-new-aman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://portfolio-new-aman.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aman-kumar-india/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Amankr200"><img src="https://img.shields.io/badge/GITHUB-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Amankr200&label=Profile%20Views&color=2c5364&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Amankr200?label=Followers&style=flat-square&color=2c5364&logo=github" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Amankr200&label=Visitors&color=8957e5&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Amankr200?style=for-the-badge&logo=github&color=1f6feb&label=Followers" />
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 🧑‍💻 `whoami`
 
-```js
-const aman = {
-  name: "Aman Kumar",
-  education: "B.Tech in Information Technology @ BPIT, GGSIPU (2027)",
-  location: "Delhi NCR, India 🇮🇳",
-  experience: "Software Development Intern @ DRDO (HIDS using OSSEC)",
-  currentlyExploring: ["System Design", "DSA", "Cloud & DevOps"],
-  openTo: ["SDE", "SDET", "Data / BI", "Product roles"],
-  funFact: "I turn coffee into code ☕ → 💻",
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```ts
+const aman: Developer = {
+  role:      "Full-Stack Developer",
+  studying:  "B.Tech IT @ BPIT, GGSIPU",
+  graduates: 2027,
+  base:      "Delhi NCR 🇮🇳",
+  experience: [
+    "SDE Intern @ DRDO — Host-Based IDS (OSSEC)",
+  ],
+  strengths: ["DSA", "System Design", "MERN", "RAG"],
+  learning:  ["Cloud", "Power BI", "Distributed Systems"],
+  openTo:    ["SDE", "SDET", "Data/BI", "Product"],
 };
 ```
 
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-| | |
-|:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,js&theme=dark" alt="languages" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="frontend" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="backend" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" alt="databases" /> |
-| **DevOps** | <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="devops" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="tools" /> |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Amankr200&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankr200&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages" />
+</td>
+<td width="45%" valign="top" align="center">
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Amankr200&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub streak" />
+<img src="https://img.shields.io/badge/LeetCode-1826%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/Top%206%25-Globally-success?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/Problems%20Solved-500%2B-blue?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/CodeBoard-500%2B%20Users-8957e5?style=for-the-badge" />
 
-<br/><br/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amankr200&theme=github_dark" alt="Profile details" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amankr200&theme=github_dark" alt="Repos per language" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amankr200&theme=github_dark" alt="Most commit language" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amankr200&theme=github_dark" alt="Productive time" />
-
-</div>
-
----
-
-## 🏆 Open Source & Achievements
-
-<div align="center">
-
-### 🌸 GirlScript Summer of Code
-
-<table>
-  <tr>
-    <td align="center"><h1>🏅 506th</h1><sub>Rank out of 17,000+ participants</sub></td>
-    <td align="center"><h1>20</h1><sub>Pull Requests Merged</sub></td>
-    <td align="center"><h1>820</h1><sub>Total Score</sub></td>
-    <td align="center"><h1>6</h1><sub>Badges Earned</sub></td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/ananyag309/ananyag309/main/Explorer%20Badge.png" width="80" alt="Explorer Badge" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ananyag309/ananyag309/main/Adventurer%20Badge.png" width="80" alt="Adventurer Badge" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ananyag309/ananyag309/main/Champion%20Badge.png" width="80" alt="Champion Badge" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ananyag309/ananyag309/main/Trailblazer%20Badge.png" width="80" alt="Trailblazer Badge" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ananyag309/ananyag309/main/Summit%20Seeker%20Badge.png" width="80" alt="Summit Seeker Badge" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80" alt="Postman API Student Expert" />
+## 🛠️ Tech Arsenal
 
-<sub><b>Explorer · Adventurer · Champion · Trailblazer · Summit Seeker · Postman API Student Expert</b></sub>
+<div align="center">
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vercel,vscode&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=powerbi&theme=dark" />
 
-<a href="https://holopin.io/@amankr200">
-  <img src="https://holopin.me/amankr200" alt="Holopin board" />
+<sub><b>Languages · Frontend/Backend · Databases · DevOps & Tools · Data/BI</b></sub>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Amankr200/Ask-Your-Notes">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amankr200&repo=Ask-Your-Notes&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Amankr200/CodeBoard">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amankr200&repo=CodeBoard&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Amankr200/Load-Balancer-Simulator">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amankr200&repo=Load-Balancer-Simulator&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Amankr200/DataFlow">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amankr200&repo=DataFlow&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
+<br/>
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| 📚 **Ask Your Notes** | Framework-free RAG app to query lecture PDFs with file/page citations — **100% Hit Rate@4, MRR 1.0** on its eval set | `Python` `Streamlit` `FAISS` `Gemini API` `Sentence-Transformers` |
+| 🏆 **CodeBoard** | Competitive programming leaderboard serving **500+ users** | `MongoDB` `Express` `React` `Node.js` |
+| ⚖️ **Load Balancer Simulator** | Interactive visualizer for 5 algorithms — Round Robin, Least Connections, Weighted RR, IP Hash, Random — with live server cards & charts | `JavaScript` `Chart.js` |
+| 🧪 **DataFlow** | Client-side CSV validation SPA, no framework, single-state-object design | `Vanilla JS` `FileReader` `Blob` |
+| 🛒 **Walmart Sales Analysis** | SQL deep-dive into retail sales data | `SQL` |
+
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Analytics
 
 <div align="center">
 
-I'm always up for collaborating on cool projects, open source, or just talking tech.
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Amankr200&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankr200&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<a href="https://www.linkedin.com/in/aman-kumar-india/"><img src="https://img.shields.io/badge/Say%20Hi%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://portfolio-new-aman.vercel.app"><img src="https://img.shields.io/badge/Visit-My%20Portfolio-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<img src="https://streak-stats.demolab.com?user=Amankr200&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amankr200&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amankr200&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amankr200/Amankr200/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amankr200/Amankr200/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Amankr200/Amankr200/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🌍 Open Source
+
+- 🌸 Contributor in **GirlScript Summer of Code (GSSoC)**
+- 🧩 Strongest contribution: unit tests & error handling for **ESP-Website**
+- 🎓 Postman **API Fundamentals Student Expert**
+
+<!--
+Uncomment ONLY if these are your own verified GSSoC numbers:
+
+<div align="center">
+<table><tr>
+<td align="center"><h2>🏅 506th</h2><sub>Rank</sub></td>
+<td align="center"><h2>20</h2><sub>PRs Merged</sub></td>
+<td align="center"><h2>820</h2><sub>Score</sub></td>
+<td align="center"><h2>6</h2><sub>Badges</sub></td>
+</tr></table>
+</div>
+-->
+
+---
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+I'm open to **SDE / SDET / Data & BI / PM** internships and roles. If you have a cool idea, an open-source issue, or just want to talk DSA — my inbox is open.
+
+<a href="https://www.linkedin.com/in/aman-kumar-india/"><img src="https://img.shields.io/badge/Message%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://portfolio-new-aman.vercel.app"><img src="https://img.shields.io/badge/See%20my-Portfolio-8957e5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br/><br/>
 
-> *"🎓 College. ☕ Coffee. 💻 Code. Repeat."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=520&lines=%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22;%22First+solve+the+problem.+Then+write+the+code.%22" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=130&section=footer" width="100%" />
 
 </div>
