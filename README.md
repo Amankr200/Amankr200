@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1b2a6b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-india/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amankr200)
 [![Holopin](https://img.shields.io/badge/Holopin-b11226?style=for-the-badge&logoColor=white)](https://holopin.io/@amankr200)
-[![Email](https://img.shields.io/badge/Email-e62429?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankumar281023@gmail.com)
+[![Email](https://img.shields.io/badge/Email-e62429?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kraman102003@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amankr200&label=Web+Visitors&color=e62429&style=flat-square&labelColor=1b2a6b)
 ![Followers](https://img.shields.io/github/followers/Amankr200?style=flat-square&color=e62429&labelColor=1b2a6b&label=Followers)
@@ -55,7 +55,7 @@ I'm a final-year Information Technology student who got bitten by the radioactiv
 
 **Quick facts:** B.Tech IT, BPIT (GGSIPU), graduating 2027 · Prior internship at DRDO · Based in Delhi NCR, open to remote and on-site.
 
-[![Email me](https://img.shields.io/badge/Send%20a%20Signal-Email%20me-e62429?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankumar281023@gmail.com?subject=Internship%20Opportunity)
+[![Email me](https://img.shields.io/badge/Send%20a%20Signal-Email%20me-e62429?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kraman102003@gmail.com?subject=Internship%20Opportunity)
 [![Connect on LinkedIn](https://img.shields.io/badge/Join%20the%20Team--Up-Connect%20on%20LinkedIn-1b2a6b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-india/)
 
 <img src="https://raw.githubusercontent.com/Amankr200/Amankr200/main/assets/divider.svg" width="100%" alt="" />
@@ -146,7 +146,7 @@ I'm a final-year Information Technology student who got bitten by the radioactiv
 
 <br/><br/>
 
-I'm open to internships and placements. Email me at **amankumar281023@gmail.com**, message me on [LinkedIn](https://www.linkedin.com/in/aman-kumar-india/), or have a look at my [portfolio](https://portfolio-new-aman.vercel.app). Shoot a web my way and I'll swing right back. 🕸️
+I'm open to internships and placements. Email me at **kraman102003@gmail.com**, message me on [LinkedIn](https://www.linkedin.com/in/aman-kumar-india/), or have a look at my [portfolio](https://portfolio-new-aman.vercel.app). Shoot a web my way and I'll swing right back. 🕸️
 
 <sub>Built with caffeine, curiosity and a lot of web-fluid (commits).</sub>
 
