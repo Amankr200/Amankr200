@@ -128,10 +128,6 @@ I'm a final-year Information Technology student who got bitten by the radioactiv
 
 <img src="https://streak-stats.demolab.com?user=Amankr200&hide_border=true&background=0D1117&ring=E62429&fire=E62429&currStreakLabel=E62429&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=58A6FF&dates=8B949E" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amankr200&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amankr200&bg_color=0d1117&color=e62429&line=e62429&point=ffffff&area=true&area_color=e62429&hide_border=true&title_color=ffffff&custom_title=Web%20of%20Contributions" width="100%" alt="activity graph" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amankr200/Amankr200/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amankr200/Amankr200/output/github-snake.svg" />
