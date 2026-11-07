@@ -72,30 +72,6 @@
   </tr>
 </table>
 <br>
-<h3>🚀 Projects </h3>
-
-### [HealthBridge](https://healthbridge01.vercel.app/)
-A modern healthcare platform that bridges the gap between patients and doctors in India.
-<br>
-**Tech Used:** Next.js 14, React, TypeScript, Tailwind CSS, Shadcn UI, Gemini API
-
-### [FinFolio - A Personal Finance Tracker💰](https://finfolio.netlify.app/)
-FinFolio is a personal finance tracker that helps you manage expenses, income, and investments with a user-friendly interface. It features secure authentication, real-time tracking, interactive charts, CSV import/export, and a responsive design to visualize your financial goals and spending patterns.
-<br>
-**Tech Used:** Tailwind, React.js, Firebase (Authentication & Firestore), Chart.js, CSS3 
-
-### [AI-Powered Travel Planner!🧳](https://ai-travel-planner-aman.netlify.app/)
-A backend project replicating basic Google Drive functionality.
-<br>
-**Tech Used:** React.js, Gemini API, Tailwind CSS, Google Auth, API, Google Places, Spring
-
-### Emissio - Carbon Footprint Tracker 🌱
-Emissio is a web-based application that empowers users to calculate and track their carbon footprint. Through interactive features, personalized tips, and gamification, it fosters sustainable behavior and connects users with eco-friendly products to encourage a greener future.
-<br>
-**Tech Used:** HTML,CSS,JavaScript,React.js,News API
-
-### Guess-My-Number-Game 
----
 
 ## :zap: Open Source Programs & Achievements
 
