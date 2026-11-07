@@ -10,6 +10,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-india/)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/Amankr200)
 [![Holopin](https://img.shields.io/badge/Holopin-8957e5?style=flat-square&logoColor=white)](https://holopin.io/@amankr200)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amankumar281023@gmail.com)
+
+<br/>
+
+![Open to Internships](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-Internships%20%26%20Placements-2ea043?style=for-the-badge)
 
 </div>
 
@@ -26,6 +31,24 @@ I'm a final-year Information Technology student who enjoys building full-stack p
 | **Competitive Programming** | LeetCode 1826 · Top 6% globally · 500+ problems |
 | **Focus** | MERN stack · RAG applications · System design · SQL & BI |
 | **Location** | Delhi NCR, India |
+
+<br/>
+
+## Looking for an Internship
+
+> **I'm actively looking for internship and placement opportunities** in software development, testing, data and product. If your team needs someone who ships, learns fast and cares about quality, I'd love to talk.
+
+| I'm looking for | What I bring |
+|:--|:--|
+| **SDE** (Full-Stack / Backend) | Built and shipped MERN apps, including CodeBoard with 500+ users |
+| **SDET / QA** | Test design experience: 52 documented test cases on SauceDemo, plus unit tests merged upstream in open source |
+| **Data / BI** | SQL, Python and Pandas, with Power BI in progress |
+| **Product** | Strong problem-solving (LeetCode 1826, top 6%) and an eye for user-facing detail |
+
+**Quick facts:** B.Tech IT, BPIT (GGSIPU), graduating 2027 · Prior internship at DRDO · Based in Delhi NCR, open to remote and on-site.
+
+[![Email me](https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankumar281023@gmail.com?subject=Internship%20Opportunity)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-india/)
 
 <br/>
 
@@ -109,6 +132,6 @@ I'm a final-year Information Technology student who enjoys building full-stack p
 
 ## Contact
 
-Open to internships and full-time roles. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/aman-kumar-india/), or have a look at my [portfolio](https://portfolio-new-aman.vercel.app).
+I'm open to internships and placements. Email me at **amankumar281023@gmail.com**, message me on [LinkedIn](https://www.linkedin.com/in/aman-kumar-india/), or have a look at my [portfolio](https://portfolio-new-aman.vercel.app).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" alt="" />
